@@ -1,0 +1,3 @@
+In the html, I created a big div to hold 2 divs, one for the images and one to drag. Then I created a div to hold all of my images. I added 9 images using external links. I added the attribute "draggable = 'true'" to add the drag and drop feature. I created another div to hold all of the images I want to drag and made 9 divs in it to hold each image.
+
+In the css, I formated the big div holding both divs so the 2 divs were side by side, I used a grid template for that. I formatted both divs in grids to hold each image. Then I formatted the images so they fit in the div without bring too big or small.
